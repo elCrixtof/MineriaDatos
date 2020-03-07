@@ -1,0 +1,88 @@
+nombre,edad,sexo,estatura,peso,semestre,materias_cursadas,color_favorito,mascota,cd_origen,consola,grupo_favorito
+Juan Trujillo Estrada,22,H,1.65,82,8,40,Azul,perro,Penjamo,Si,Chalino Sanchez
+Hugo Ivan Lozoyo Belman,21,H,1.72,78,6,26,Azul,Perro,Irapuato,Si,Avenged Sevenfold
+Damian Sevilla Gallardo,20,H,1.76,80,6,25,Negro,Perro,Irapuato,Si,Imagine Dragons
+Juan Carlos Alonso Sanchez,21,H,1.71,75,6,27,Naranja,Gato,Irapuato,Si,MGMT
+Guillermo Ramirez Carpio,21,H,1.72,62,6,24,Gris,Perro,Irapuato,Si,Guns'n roses
+Jose Francisco Ortiz Lopez,22,H,1.72,71.5,7,37,Azul claro,Perro,Penjamo,SI,Celso Piña
+Jonathan de Jesus Estrella Ramirez,21,H,1.73,86,8,42,Negro,Perro,San Luis de la Paz,Si,Metallica
+Jairo Noel Aguirre Reyes,21,H,1.72,70,8,34,Azul,Perro,Tierra Blanca,No,Grupo Firme
+Ignacio Zuñiga Gonzalez,21,H,1.69,67,8,36,Rojo,Gato,San Jose Iturbide,No,Coldplay
+Isaac Cardenas Ledesma,21,H,1.82,74,8,37,Gris,Perro,Santa Catarina,Si,Gnarls Barkley
+Jose Alfredo Romero Gonzalez,22,H,1.69,69,8,42,Rojo,Perro,Irapuato,Si,Coldplay
+Mariana Arce Aguilar,23,M,1.61,68,8,43,Rojo,Perro,CDMX,Si,Twenty one pilots
+Leonardo Juarez Morales,20,H,1.76,55,6,27,Azul,Perro,Irapuato,Si,Revolver Urbano
+Juan Carlos Rivera Martinez,20,H,1.72,78,4,20,Morado,Gato,Penjamo,Si,Adan Cruz
+Luis Jacobo Flores,20,H,1.70,68,6,31,Azul,Perro,Salamanca,Si,Skillet
+Alan Antonio Alvarez Sanchez,21,h,1.80,73.5,8,42,Azul,Perro,Salamanca,Si,Daft Punk
+Lizbeth Arianna Lopez Ramirez,21,m,1.70,65,2,7,verde,erizo,Valle,No,Cafe Tacvba
+Lauria Alicia Valdes Flores,22,m,1.67,48,8,40,amarillo,perro,Celaya,Si,Foster the people
+Frida Martinez Flores,21,m,1.60,50,8,38,verde,perro,Irapuato,No,The growlers
+Christian Josue Acosta Vergas,21,H,1.80,85,8,40,Negro,perro,Salamanca,Si,mago de oz
+Pedro Sanchez Crespo,21,H,1.80,73.5,8,42,Azul,perro,Salamanca,Si,daft punk
+Luciano Figeroa Herrera,21,H,1.70,72,8,50,Negro,perro,Salamanca,Si,hombres g
+Diana karla aguirre gonzalez,22,M,1.62,64.5,8,54,Azul,perro,Salamanca,Si,coldplay
+Diego Eduardo Rosado Gonzalez,22,H,1.81,62,8,39,Azul,Perro,Leon,No,Coldplay
+Ingrid Perez Sierra,22,M,1.68,58,9,42,Verde,Perro,Valle de Santiago,No,The 1975
+Edgar David Cortes Arreola,24,H,1.82,65,6,30,Negro,Perro,Queretaro,No,Black Sabbath
+Inocensio Emilio Valdivia Olmos,29,H,1.64,85,10,51,Negro,No,Irapuato,No,Athenas
+Luis Gonzalo Soriano Crespo ,21,H,1.64,70,8,39,Azul,Gato,Salamanca,Si,Giraffage
+David Adrian Crespo Cruzes,18,H,1.70,67,2,6,Verde,Perro,Irapuato,Si,Metallica
+Roberto Josue Gallardo Montenegro,22,H,1.74,84,6,26,Negro,Perro,Salamanca,Si,Skrillex
+Diego Eduardo Rosas Gonzalez,22,H,1.81,62,8,39,Azul,Perro,Leon,No,Coldplay
+Braulio Isaac Baca Barbosa,19,H,1.78,68,2,6,Amarillo,Perro,Celaya,No,Khalid
+Jaqueline Vazquez Nuñez,22,M,1.54,58,2,39,rosa,Perro,Austin,No,Josue Alaniz
+Jose Abel Vilchis Mar,22,H,1.79,78,8,39,Negro,Perro,Tuxpan,No,My Chemical Romance
+Cesar Alberto Ramirez Sanchez,22,H,1.68,85,9,49,Negro,Perro,Irapuato,No,Cadetes de Linares
+Eber Sanchez Rodriguez,21,H,1.65,78,8,38,Azul,No,Penjamo,No,Muse
+Ulises Campos Perez,22,H,1.70,76,8,42,Azul,perro,Irapuato,si,Martin Garrix
+Manuel Abimelek Castrezana Granados,21,H,1.67,70,7,36,Negro,perro,Irapuato,si,Coldplay
+Jose Roberto Prieto Valdivia,22,H,1.75,78,8,41,Rojo,perro,Irapuato,si,Beatles
+Esteban Lopez Elizarraraz ,22,H,1.77,82,6,31,Rojo,perro,Irapuato,No,c-kan
+Raul Uriel Silva Ramirez,19,H,1.71,68,2,6,Verde,Perro,Leon,No,Duky
+Jonathan Joel Corona Ortega,22,H,1.65,70,8,37,Azul,Perro,Irapuato,Si,Twenty One Pilots
+Paulina Garabeth Aviles Robledo,25,M,1.60,64,7,37,Azul,Perro,Irapuato,No,Florence + Machine
+Alejandro Rivera Moron,22,H,1.78,60,8,33,Azul,Perro,Puebla,Si,Queen
+Fatima Lizbeth Ortiz Lopez,20,M,1.75,78,6,32,Negro,Perro,Penjamo,No,NO
+Edwin Alexis Valdes Melendez,23,H,1.71,64,10,25,Azul,Perro,Penjamo,Si,Adele
+Mariel Fernanda Garcia Herrera,23,M,1.64,61,10,63,Morado,Perro,Irapuato,Si,Sam Smith
+Cristian Leovardo Rosales Lara,32,H,1.66,75,8,45,Negro,Perro,Irapuato,Si,Maldita Vecindad
+German Neftali Rangel Gonzalez,23,H,1.76,97,9,41,Negro,Perro,Silao,Si,Radiohead
+Cinthia Fabiola Sierra Gonzalez,23,M,1.67,47,9,41,Rosa,Perro,Valle de Santiago,No,Dua Lipa
+Vicente Ramirez Gonzalez,21,H,1.84,85,9,41,Negro,Perro,Salamanca,No,Foster
+Cesar Manuel Padron Garcia,22,H,1.80,75,9,44,Azul,Perro,Salamanca,Si,Becky G
+Manuel Pedro Matadamas Marin,24,H,1.75,95,9,43,Negro,Gato,Salamanca,Si,Cartel de Santa
+Rafael Aguirre Carmona,22,H,1.83,70,9,44,Azul,Perro,San Felipe,Si,DLD
+Monica Paola Rodriguez Rivera,22,M,1.59,53.5,2,6,Morado,Perro,Irapuato,No,Jarabe de palo
+Armando Galvan Hernandez,29,H,1.75,83.5,13,50,Azul,Perro,Apaseo el Alto,Si,Chayanne
+Andres Castro Cabrera,25,H,1.75,80,11,50,Rojo,Gato,Irapuato,Si,Mago de Oz
+Diana Elena Garcia Muñoz,25,M,1.68,68,11,51,Vino,Perro,Penjamo,Si,Joan Sebastian
+Jose Luis Zuñiga Celedon,24,H,1.78,80,11,45,Negro,Perro,Salamanca,No,Rafael Lechowski
+Eduardo Prado Aranda,22,H,1.69,74,9,32,Gris,Perro,Irapuato,Si,The Beatles 
+Emanuel Antonio Vazques Garcia,22,H,1.65,76,9,30,Negro ,Perro,Salamanca,No,Chester Bennington
+Nestor Alan Gomez Vallejo,23,H,1.70,85,11,45,Azul,Gato,Iraputo,No,Drake
+Fatima Judith Beltran Barcelo,25,M,1.70,70,9,47,Negro,Perro,Hermosillo,No,Kiss
+Ivan Alejandro Rocha Rios,21,H,1.71,85,8,39,Gris,Perro,Guanajuato,Si,insaneintherainmusic
+Oscar Omar Dominguez Montenegro,22,H,1.84,94,9,44,Amarillo,Perro,Salamanca,Si,Mayhem
+Idalid Avila Camargo,22,M,1.56,70,8,44,azul,gato,Irapuato,si,Aurora
+Luis Javier Sanchez Pinzon,21,H,1.70,56,7,31,azul,perro,CDMX,si,Cultura Profetica
+Blas de Jesus Moreno Fuentes,20,H,1.80,97,7,34,azul,perro,Irapuato,si,Whitney Houston
+Roberto Jorge Cruz,24,H,1.80,95,7,28,rojo,perro,Salamanca,si,Radiohead
+Cynthia Mariby Aviles Medina,22,M,1.50,55,6,34,rojo,pato,Salamanca,No,C-kan
+Marco Pedro Ortiz Bermudez,24,H,1.80,88,8,40,Azul,Perro,Cueramaro,Si,Rammstein
+Fernando Reyes Cuevas,25,H,1.81,86,9,45,Rojo,Perro,Cueramaro,Si,C-kan
+Fernanda Arizbet Negrete Zuñiga,20,M,1.60,58,4,20,Rojo,Perro,Irapuato,No,Coldplay
+Paola Menendez Garcia,20,M,1.58,60,4,19,Rosa,Gato,Salamanca,No,Yuridia
+Luis Rey Delgado Cortez,24,H,1.79,85,9,45,Negro,Perro,Cueramaro,No,Bullet for my valentine
+Jaime Saul Alonso Sanchez,23,H,1.75,65,8,39,Negro,Gato,Irapuato,Si,Car seat headrest
+erika Morales,23,M,1.68,100,9,45,Rosa,No,Irapuato,No,Britney Spears
+Adan Hernandez Baena,22,H,1.76,80,8,39,Azul,Perro,Sarabia,No,Jose Alfredo Gimenez
+Emmanuel Alejandro Gallardo Dominguez,22,H,1.60,60,8,30,Gris,Perro,Salamanca,No,Armando Palomas
+Guadalupe Carolina Aguirre Zuñiga,22,M,1.59,79,8,39,Rosa,gato,Salamanca,no,Khalid
+Lizeth Garcia Zavala,21,M,1.70,80,2,8,negro,perro,Salamanca,no,Sonora Santanera
+Luis Daniel Bazana Morales,21,H,1.75,90,8,25,rojo,perro,Salamnca,si,Daft punk
+Daniela Alejandra Mendoza Flores,21,M,1.58,69,8,40,rosa,no,Juventino Rosas,no,BTS
+Edwin Alfonso Valdez Solis,21,H,1.74,69.4,8,42,Azul,Perro,Mexico,No,Zoe
+Hiram Gonzales Corona,23,H,1.76,72,8,44,Rosa,Perro,Salamanca,Si,Gorilaz
+Amaury Ruiz Acosta,18,H,1.74,57,2,6,Negro,Perro,Salamanca,Si,Kurt Cobain
+Felipe de Jesus Juarez Gonzales,21,H,1.76,73,8,43,Azul,Perro,Salamanca,No,Kronoz
